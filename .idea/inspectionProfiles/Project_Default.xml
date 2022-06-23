@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.my_apikey" />
+          <option value="main.my_url" />
+          <option value="tensorflow.python.keras.text" />
+          <option value="tensorflow.python.keras.sequence" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
